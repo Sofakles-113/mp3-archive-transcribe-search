@@ -1,0 +1,39 @@
+arize-phoenix #tracing
+langchain
+langchain_experimental #LLamaapi client
+openinference-instrumentation-langchain #tracing
+langgraph #agent
+llamaapi #client
+openai #client
+langchain_openai
+llama-index #RAG tool
+llama-index-llms-langchain #RAG tool
+llama-index-vector-stores-postgres #RAG tool
+langgraph-checkpoint-postgres #postgres
+pytesseract #OCR
+pdf2image #OCR
+matplotlib
+openinference-instrumentation-llama_index #RAG tool
+jsonpath-ng # JSON tool
+langchain-anthropic #claude
+langchain-ollama #oolama
+PyPDF2 #pdf highlighting
+python-docx #docx
+pandas
+PyMuPDF
+whisper-openai
+faster-whisper
+langchain-community
+sentence-transformers
+chromadb
+ollama
+langchain-core
+ipdb
+language-tool-python
+psycopg2-binary
+pandas
+llama-index-embeddings-huggingface
+llama-index-llms-anthropic
+llama-index-callbacks-arize-phoenix
+arize-phoenix
+openinference-instrumentation-llama-index
