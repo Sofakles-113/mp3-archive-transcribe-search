@@ -10,6 +10,8 @@ Takes a messy folder of MP3s and:
 - Optionally loads everything into a local PostgreSQL database for querying
 - Lets you RAG over your transcripts using LlamaIndex + Claude
 
+![Flowchart](./Flowchart.png)
+
 ## Requirements
 
 - [Ollama](https://ollama.ai) running locally with `mistral-small3.2:24b` pulled
