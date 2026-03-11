@@ -15,9 +15,10 @@ Takes a messy folder of MP3s and:
 ## Requirements
 
 - [Ollama](https://ollama.ai) running locally with `mistral-small3.2:24b` pulled
-- Docker (for the PostgreSQL container)
+- Docker (for the PostgreSQL container) (easiest install: Docker Desktop or Rancher Desktop)
 - Python 3.10+
 - An Anthropic API key if you want to use the RAG query part
+- Windows: Installed ffmpeg (choco install ffmpeg)
 
 ## Quickstart
 
